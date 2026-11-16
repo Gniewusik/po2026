@@ -1,4 +1,4 @@
-package agh.po.lab4;
+package agh.po.lab3;
 
 import java.util.HashMap;
 import java.util.Map;
