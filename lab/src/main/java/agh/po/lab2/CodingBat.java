@@ -1,4 +1,4 @@
-package agh.po.lab3;
+package agh.po.lab2;
 
 public class CodingBat {
     public boolean array123(int[] nums) {

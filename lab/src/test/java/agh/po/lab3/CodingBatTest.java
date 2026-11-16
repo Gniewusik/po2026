@@ -1,5 +1,6 @@
 package agh.po.lab3;
 
+import agh.po.lab2.CodingBat;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
